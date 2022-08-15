@@ -1,5 +1,4 @@
-/// @description Insert description here
-// You can write your code in this editor
+/// @description make sure surfaces exist
 
 for (var i = num_surfaces; i > 0; i-=1) 
 {
